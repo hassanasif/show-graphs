@@ -1,0 +1,29 @@
+.styleGetData{
+    display: block;
+    padding-top: 30px;
+    margin-left:10px;
+    padding-right: 10px;
+}
+h1
+{
+    color: rgb(141, 53, 53);
+    text-align: center;
+}
+.styleRow {
+    border: 0.5px solid black;
+    padding: 10px;
+    margin: 3px;
+}
+.styleDisplay
+{
+    background-color: #E0FFFF;
+    display: block;
+}
+.styleData
+{
+    background-color:#FFEFD5;
+}
+.styleLabel
+{
+    color: rgb(141, 53, 53);
+}
